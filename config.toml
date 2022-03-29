@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Ansbach Cricket'
+theme = "PaperMod"
+
+[markup.goldmark.renderer]
+unsafe = true
