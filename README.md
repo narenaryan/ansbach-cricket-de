@@ -9,9 +9,11 @@ On Mac, do:
 ```bash
 brew install hugo
 ```
+https://gohugo.io/
 
 ## Running the development server
 ```bash
 hugo server
 ```
+
 It will serve the application on a port (see output of command), and hot reloads while chaning content.
